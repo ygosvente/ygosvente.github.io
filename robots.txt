@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ygosvente.github.io/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/app/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/assets/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/css/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/data/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/includes/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/item/sitemap.html.gz
+Sitemap: https://ygosvente.github.io/src/sitemap.html.gz
